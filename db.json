@@ -1,0 +1,110 @@
+{
+  "users": [
+    {
+      "name": "Ms. Cynthia Corwin",
+      "id": 16
+    },
+    {
+      "name": "Gabriel Hahn",
+      "id": 17
+    },
+    {
+      "name": "Edgar Morissette",
+      "id": 18
+    }
+  ],
+  "albums": [
+    {
+      "userId": 17,
+      "title": "Bike",
+      "id": 4
+    },
+    {
+      "userId": 17,
+      "title": "Mouse",
+      "id": 6
+    },
+    {
+      "userId": 16,
+      "title": "Soap",
+      "id": 7
+    },
+    {
+      "userId": 16,
+      "title": "Keyboard",
+      "id": 8
+    },
+    {
+      "userId": 17,
+      "title": "Cheese",
+      "id": 9
+    },
+    {
+      "userId": 17,
+      "title": "Mouse",
+      "id": 10
+    },
+    {
+      "userId": 17,
+      "title": "Pizza",
+      "id": 11
+    },
+    {
+      "userId": 16,
+      "title": "Computer",
+      "id": 12
+    },
+    {
+      "userId": 16,
+      "title": "Soap",
+      "id": 13
+    },
+    {
+      "userId": 18,
+      "title": "Table",
+      "id": 14
+    },
+    {
+      "userId": 18,
+      "title": "Soap",
+      "id": 15
+    }
+  ],
+  "photos": [
+    {
+      "url": "https://loremflickr.com/640/480?lock=7010899820806144",
+      "albumId": 7,
+      "id": 1
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=5798701645692928",
+      "albumId": 7,
+      "id": 2
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=3500292786094080",
+      "albumId": 7,
+      "id": 3
+    },
+    {
+      "url": "https://picsum.photos/seed/iigiBHkNSN/640/480",
+      "albumId": 7,
+      "id": 4
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=6207402615504896",
+      "albumId": 7,
+      "id": 5
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=7262776657444864",
+      "albumId": 7,
+      "id": 8
+    },
+    {
+      "url": "https://picsum.photos/seed/lfoZvZxrM/640/480",
+      "albumId": 7,
+      "id": 9
+    }
+  ]
+}
